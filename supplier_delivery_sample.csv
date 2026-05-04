@@ -1,0 +1,91 @@
+deliverable_id,supplier,category,deliverable,promise_date,actual_delivery_date,days_late,delivery_status,delay_risk,cost_usd,delivery_month,notes
+DEL-001,Metro Machining,Machined Parts,Mounting plates,2026-02-24,2026-02-26,2,Late,Medium,3450,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-002,Summit Fasteners,Hardware,Bolt kits,2026-02-20,2026-02-21,1,Late,Low,17200,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-003,Prairie Packaging,Packaging,Retail cartons,2026-01-16,2026-01-16,0,On Time,Low,3200,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-004,Prairie Packaging,Packaging,Retail cartons,2026-03-16,2026-03-16,0,On Time,Low,4950,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-005,Prairie Packaging,Packaging,Retail cartons,2026-03-19,2026-03-20,1,Late,Low,2700,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-006,Prairie Packaging,Packaging,Retail cartons,2026-03-17,2026-03-22,5,Late,Medium,10450,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-007,Lakeside Plastics,Plastic Components,Housing shells,2026-03-15,2026-03-13,-2,Early,Low,10950,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-008,Summit Fasteners,Hardware,Screw assortment,2026-01-18,2026-01-19,1,Late,Low,7200,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-009,Metro Machining,Machined Parts,Aluminum brackets,2026-03-16,2026-03-18,2,Late,Medium,2950,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-010,Summit Fasteners,Hardware,Screw assortment,2026-03-09,2026-03-11,2,Late,Medium,14700,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-011,Metro Machining,Machined Parts,Custom metal frames,2026-03-20,2026-03-27,7,Late,High,12700,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-012,Metro Machining,Machined Parts,Mounting plates,2026-04-16,2026-04-15,-1,Early,Low,8950,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-013,NorthStar Components,Electronics,Power module shipment,2026-03-13,2026-03-14,1,Late,Low,11950,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-014,Atlas Sensors,Sensors,Calibration modules,2026-02-10,2026-02-11,1,Late,Low,3450,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-015,NorthStar Components,Electronics,Connector kits,2026-01-26,2026-01-29,3,Late,Medium,5950,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-016,Lakeside Plastics,Plastic Components,Injection molded trays,2026-01-10,2026-01-20,10,Late,High,3450,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-017,Summit Fasteners,Hardware,Washer sets,2026-02-17,2026-02-19,2,Late,Medium,16950,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-018,Summit Fasteners,Hardware,Anchor fasteners,2026-01-13,2026-01-18,5,Late,Medium,9700,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-019,Lakeside Plastics,Plastic Components,Molded covers,2026-01-12,2026-01-15,3,Late,Medium,10950,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-020,Atlas Sensors,Sensors,Calibration modules,2026-02-10,2026-02-12,2,Late,Medium,12200,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-021,NorthStar Components,Electronics,Connector kits,2026-02-19,2026-02-18,-1,Early,Low,4700,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-022,Lakeside Plastics,Plastic Components,Molded covers,2026-02-01,2026-02-04,3,Late,Medium,5200,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-023,Atlas Sensors,Sensors,Pressure sensor batch,2026-02-24,2026-02-24,0,On Time,Low,16950,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-024,NorthStar Components,Electronics,Wire harness set,2026-03-03,2026-03-03,0,On Time,Low,9950,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-025,Prairie Packaging,Packaging,Pallet wrap supply,2026-04-25,2026-04-26,1,Late,Low,14450,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-026,Metro Machining,Machined Parts,Custom metal frames,2026-02-03,2026-02-02,-1,Early,Low,6700,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-027,Prairie Packaging,Packaging,Protective inserts,2026-03-30,2026-03-30,0,On Time,Low,16700,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-028,Summit Fasteners,Hardware,Screw assortment,2026-02-07,2026-02-07,0,On Time,Low,5700,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-029,Lakeside Plastics,Plastic Components,Plastic clips,2026-03-24,2026-03-25,1,Late,Low,5200,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-030,Atlas Sensors,Sensors,Temperature sensors,2026-03-04,2026-03-11,7,Late,High,13700,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-031,Lakeside Plastics,Plastic Components,Injection molded trays,2026-02-24,2026-02-22,-2,Early,Low,13950,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-032,NorthStar Components,Electronics,Wire harness set,2026-01-13,2026-01-27,14,Late,High,15200,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-033,Prairie Packaging,Packaging,Retail cartons,2026-02-17,2026-02-18,1,Late,Low,4450,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-034,NorthStar Components,Electronics,Wire harness set,2026-03-14,2026-03-12,-2,Early,Low,12700,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-035,Summit Fasteners,Hardware,Bolt kits,2026-01-14,2026-01-19,5,Late,Medium,13200,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-036,Prairie Packaging,Packaging,Shipping labels,2026-02-18,2026-02-19,1,Late,Low,16200,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-037,NorthStar Components,Electronics,Control board batch,2026-04-23,2026-04-24,1,Late,Low,15950,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-038,Lakeside Plastics,Plastic Components,Injection molded trays,2026-02-13,2026-02-11,-2,Early,Low,4450,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-039,Atlas Sensors,Sensors,Optical sensors,2026-04-09,2026-04-09,0,On Time,Low,6200,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-040,Summit Fasteners,Hardware,Bolt kits,2026-01-31,2026-02-10,10,Late,High,17950,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-041,Metro Machining,Machined Parts,Mounting plates,2026-04-03,2026-04-04,1,Late,Low,1950,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-042,Summit Fasteners,Hardware,Washer sets,2026-03-28,2026-04-02,5,Late,Medium,9450,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-043,Summit Fasteners,Hardware,Washer sets,2026-01-26,2026-01-26,0,On Time,Low,8200,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-044,Summit Fasteners,Hardware,Washer sets,2026-03-27,2026-03-27,0,On Time,Low,7200,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-045,Prairie Packaging,Packaging,Pallet wrap supply,2026-04-09,2026-04-12,3,Late,Medium,7450,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-046,Summit Fasteners,Hardware,Anchor fasteners,2026-02-19,2026-02-22,3,Late,Medium,1950,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-047,Metro Machining,Machined Parts,Custom metal frames,2026-02-07,2026-02-06,-1,Early,Low,12200,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-048,Lakeside Plastics,Plastic Components,Plastic clips,2026-02-20,2026-02-18,-2,Early,Low,4450,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-049,Prairie Packaging,Packaging,Pallet wrap supply,2026-01-30,2026-01-30,0,On Time,Low,16450,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-050,Summit Fasteners,Hardware,Bolt kits,2026-03-07,2026-03-14,7,Late,High,12200,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-051,Atlas Sensors,Sensors,Temperature sensors,2026-04-21,2026-04-23,2,Late,Medium,13450,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-052,Atlas Sensors,Sensors,Pressure sensor batch,2026-03-07,2026-03-14,7,Late,High,14950,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-053,Atlas Sensors,Sensors,Optical sensors,2026-01-16,2026-01-19,3,Late,Medium,13700,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-054,Lakeside Plastics,Plastic Components,Injection molded trays,2026-04-10,2026-04-20,10,Late,High,6200,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-055,Prairie Packaging,Packaging,Protective inserts,2026-01-08,2026-01-07,-1,Early,Low,15950,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-056,Atlas Sensors,Sensors,Pressure sensor batch,2026-03-24,2026-03-29,5,Late,Medium,16200,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-057,Atlas Sensors,Sensors,Optical sensors,2026-01-24,2026-01-25,1,Late,Low,5200,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-058,NorthStar Components,Electronics,Control board batch,2026-04-17,2026-05-01,14,Late,High,4450,2026-05,Synthetic sample data for Power BI portfolio dashboard
+DEL-059,Summit Fasteners,Hardware,Screw assortment,2026-03-01,2026-03-15,14,Late,High,7200,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-060,Prairie Packaging,Packaging,Retail cartons,2026-02-06,2026-02-06,0,On Time,Low,17200,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-061,Prairie Packaging,Packaging,Shipping labels,2026-02-07,2026-02-08,1,Late,Low,5200,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-062,NorthStar Components,Electronics,Power module shipment,2026-04-29,2026-04-29,0,On Time,Low,17700,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-063,Lakeside Plastics,Plastic Components,Housing shells,2026-03-14,2026-03-13,-1,Early,Low,17450,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-064,NorthStar Components,Electronics,Connector kits,2026-04-14,2026-04-13,-1,Early,Low,1200,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-065,Prairie Packaging,Packaging,Protective inserts,2026-01-23,2026-01-23,0,On Time,Low,4950,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-066,Summit Fasteners,Hardware,Bolt kits,2026-02-15,2026-02-17,2,Late,Medium,17950,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-067,Summit Fasteners,Hardware,Anchor fasteners,2026-04-15,2026-04-18,3,Late,Medium,2950,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-068,Prairie Packaging,Packaging,Protective inserts,2026-02-09,2026-02-06,-3,Early,Low,4200,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-069,Summit Fasteners,Hardware,Anchor fasteners,2026-03-17,2026-03-14,-3,Early,Low,3200,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-070,Lakeside Plastics,Plastic Components,Plastic clips,2026-03-24,2026-04-07,14,Late,High,17450,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-071,Prairie Packaging,Packaging,Shipping labels,2026-03-03,2026-03-04,1,Late,Low,16450,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-072,Summit Fasteners,Hardware,Screw assortment,2026-04-04,2026-04-05,1,Late,Low,9450,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-073,Summit Fasteners,Hardware,Screw assortment,2026-04-22,2026-04-22,0,On Time,Low,14450,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-074,NorthStar Components,Electronics,Connector kits,2026-03-02,2026-03-02,0,On Time,Low,8700,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-075,Lakeside Plastics,Plastic Components,Molded covers,2026-02-01,2026-02-03,2,Late,Medium,4950,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-076,Prairie Packaging,Packaging,Shipping labels,2026-01-23,2026-01-23,0,On Time,Low,5450,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-077,Lakeside Plastics,Plastic Components,Housing shells,2026-04-10,2026-04-20,10,Late,High,13700,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-078,Lakeside Plastics,Plastic Components,Housing shells,2026-03-31,2026-04-05,5,Late,Medium,6200,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-079,Atlas Sensors,Sensors,Calibration modules,2026-03-11,2026-03-11,0,On Time,Low,14450,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-080,Prairie Packaging,Packaging,Shipping labels,2026-02-14,2026-02-12,-2,Early,Low,12700,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-081,NorthStar Components,Electronics,Power module shipment,2026-03-16,2026-03-16,0,On Time,Low,1700,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-082,Lakeside Plastics,Plastic Components,Plastic clips,2026-03-12,2026-03-14,2,Late,Medium,17450,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-083,NorthStar Components,Electronics,Control board batch,2026-04-15,2026-04-15,0,On Time,Low,4450,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-084,NorthStar Components,Electronics,Power module shipment,2026-02-08,2026-02-05,-3,Early,Low,6950,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-085,Metro Machining,Machined Parts,Mounting plates,2026-04-19,2026-04-19,0,On Time,Low,9450,2026-04,Synthetic sample data for Power BI portfolio dashboard
+DEL-086,Lakeside Plastics,Plastic Components,Housing shells,2026-03-14,2026-03-21,7,Late,High,16950,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-087,Atlas Sensors,Sensors,Optical sensors,2026-01-16,2026-01-16,0,On Time,Low,6950,2026-01,Synthetic sample data for Power BI portfolio dashboard
+DEL-088,Lakeside Plastics,Plastic Components,Molded covers,2026-02-08,2026-02-18,10,Late,High,3950,2026-02,Synthetic sample data for Power BI portfolio dashboard
+DEL-089,Metro Machining,Machined Parts,Aluminum brackets,2026-03-23,2026-03-28,5,Late,Medium,3200,2026-03,Synthetic sample data for Power BI portfolio dashboard
+DEL-090,Metro Machining,Machined Parts,Aluminum brackets,2026-03-04,2026-03-01,-3,Early,Low,14450,2026-03,Synthetic sample data for Power BI portfolio dashboard
